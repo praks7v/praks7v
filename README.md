@@ -1,9 +1,18 @@
-<h1 align="center">Hi 👋, I'm Praks</h1>
-<h3 align="center">A passionate DevOps Engineer from India</h3>
+<h1 align="center">Hey Everyone 👋, I'm Prakash Satvi</h1>
+<h3 align="center">A passionate and motivated aspiring DevOps Engineer from India.</h3>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<h3 align="left">🚀 About Me</h3>
+<p align="left">
+I have completed my degree in Computer Science from Mumbai University of India. I am eager to start my professional journey in the DevOps field, bringing in my enthusiasm for cloud technologies, automation, and continuous improvement.</p>
 
+- 🌱 I’m currently learning **DevSecOps & Cloud Devops**
+
+- 👨‍💻 All of my projects are available at [https://github.com/praks7v](https://github.com/praks7v)
+
+- 📫 How to reach me **prakswebtech@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://discord.gg/dark_111101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="dark_111101" height="30" width="40" /></a>
+<a href="https://discord.gg/FuAVHUwt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="dark_111101" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -14,3 +23,16 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=praks7v&show_icons=true&locale=en" alt="praks7v" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=praks7v&" alt="praks7v" /></p>
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=praks7v&limit=5&theme=flat&combine_all_yearly_contributions=true)
+
+<h3 align="left">🤔 Looking for</h3>
+
+- Entry-level DevOps positions.
+- Opportunities to work on interesting projects and learn from experienced professionals.
+- Networking with DevOps professionals.
+
+Feel free to reach out if you have any questions or just want to connect!
+
+![prakswebtech@gmail.com](prakswebtech@gmail.com)
