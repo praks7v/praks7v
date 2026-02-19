@@ -31,26 +31,6 @@ I enjoy working with data, building dashboards, performing analysis, and solving
 ✔️ Business Insights & Reporting  
 ✔️ SQL Query Optimization  
 
-<h3 align="left">📌 Currently Looking For:</h3>
-
-- Entry-level Data Analyst roles  
-- Internship opportunities in Data Analytics  
-- Projects involving real-world datasets  
-- Networking with Data Professionals  
-
-Feel free to reach out if you have any questions or just want to connect!
-
-
-- 🌱 I’m currently learning **DevSecOps & Cloud Devops**
-
-- 👨‍💻 All of my projects are available at [https://github.com/praks7v](https://github.com/praks7v)
-
-- 📫 How to reach me **prakswebtech@gmail.com**
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://discord.gg/FuAVHUwt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="dark_111101" height="30" width="40" /></a>
-</p>
-
 <h3 align="left">My Badges:</h3>
 
 [![My Credly Badge](badges/aws-educate-getting-started-with-compute.png)](https://www.credly.com/users/prakash-satvi/badges)
@@ -67,12 +47,17 @@ Feel free to reach out if you have any questions or just want to connect!
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=praks7v&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
-<h3 align="left">🤔 Looking for</h3>
+<h3 align="left">📌 Currently Looking For:</h3>
 
-- Entry-level DevOps positions.
-- Opportunities to work on interesting projects and learn from experienced professionals.
-- Networking with DevOps professionals.
+- Entry-level Data Analyst roles  
+- Internship opportunities in Data Analytics  
+- Projects involving real-world datasets  
+- Networking with Data Professionals  
 
 Feel free to reach out if you have any questions or just want to connect!
 
-![prakswebtech@gmail.com](prakswebtech@gmail.com)
+- 📫 How to reach me **prakswebtech@gmail.com**
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://discord.gg/w3fXPKHm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="dark_111101" height="30" width="40" /></a>
+</p>
