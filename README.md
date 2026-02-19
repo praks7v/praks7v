@@ -1,7 +1,7 @@
 <h1 align="center">Hey Everyone 👋, I'm Prakash Satvi</h1>
 <h3 align="center">A passionate and motivated aspiring Data Analyst from India.</h3>
 
-<img align="right" alt="Data Analytics" width="400" src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif">
+<img align="right" alt="Data Analytics" width="400" src="https://i.imgflip.com/65efzo.gif">
 
 <h3 align="left">📊 About Me</h3>
 <p align="left">
