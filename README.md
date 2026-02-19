@@ -1,9 +1,45 @@
 <h1 align="center">Hey Everyone 👋, I'm Prakash Satvi</h1>
-<h3 align="center">A passionate and motivated aspiring DevOps Engineer from India.</h3>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-<h3 align="left">🚀 About Me</h3>
+<h3 align="center">A passionate and motivated aspiring Data Analyst from India.</h3>
+
+<img align="right" alt="Data Analytics" width="400" src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif">
+
+<h3 align="left">📊 About Me</h3>
 <p align="left">
-I have completed my degree in Computer Science from Mumbai University of India. I am eager to start my professional journey in the DevOps field, bringing in my enthusiasm for cloud technologies, automation, and continuous improvement.</p>
+I have completed my degree in Computer Science from Mumbai University, India. 
+I am passionate about transforming raw data into meaningful insights that drive decision-making. 
+I enjoy working with data, building dashboards, performing analysis, and solving real-world business problems.
+</p>
+
+- 🌱 I’m currently learning **Advanced SQL, Power BI & Data Visualization**
+- 📊 Exploring **Data Cleaning, EDA & Business Intelligence**
+- 👨‍💻 All of my projects are available at: https://github.com/praks7v
+- 📫 How to reach me: **prakswebtech@gmail.com**
+
+<h3 align="left">🛠️ Data Analytics Toolkit:</h3>
+
+- **Languages:** Python, SQL  
+- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn  
+- **Databases:** MySQL, PostgreSQL, MongoDB  
+- **Visualization Tools:** Power BI, Excel  
+- **Other Tools:** Git, Jupyter Notebook  
+
+<h3 align="left">📈 What I Do:</h3>
+
+✔️ Data Cleaning & Preprocessing  
+✔️ Exploratory Data Analysis (EDA)  
+✔️ Dashboard Creation  
+✔️ Business Insights & Reporting  
+✔️ SQL Query Optimization  
+
+<h3 align="left">📌 Currently Looking For:</h3>
+
+- Entry-level Data Analyst roles  
+- Internship opportunities in Data Analytics  
+- Projects involving real-world datasets  
+- Networking with Data Professionals  
+
+Feel free to reach out if you have any questions or just want to connect!
+
 
 - 🌱 I’m currently learning **DevSecOps & Cloud Devops**
 
